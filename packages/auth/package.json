@@ -1,0 +1,12 @@
+{
+	"name": "@sass/auth",
+	"version": "0.0.0",
+	"private": "true",
+	"main": "src/index.ts",
+	"types": "src/index.ts",
+	"devDependencies": {
+		"@biomejs/biome": "1.9.4",
+		"@sass/biome": "workspace:*",
+		"@sass/tsconfig": "workspace:*"
+	}
+}

@@ -1,0 +1,10 @@
+{
+	"name": "@sass/biome",
+	"version": "0.0.0",
+	"main": "index.mjs",
+	"private": "true",
+	"devDependencies": {
+		"@biomejs/biome": "1.9.4"
+	},
+	"files": ["biome.json"]
+}
