@@ -8,5 +8,9 @@
 		"@biomejs/biome": "1.9.4",
 		"@sass/biome": "workspace:*",
 		"@sass/tsconfig": "workspace:*"
+	},
+	"dependencies": {
+		"@casl/ability": "6.7.3",
+		"zod": "3.24.1"
 	}
 }

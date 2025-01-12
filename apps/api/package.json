@@ -1,0 +1,17 @@
+{
+	"name": "@sass/api",
+	"version": "1.0.0",
+	"scripts": {
+		"dev": "tsx watch src/index.ts"
+	},
+	"dependencies": {
+		"@sass/auth": "workspace:*"
+	},
+	"devDependencies": {
+		"@biomejs/biome": "1.9.4",
+		"@sass/biome": "workspace:*",
+		"@sass/tsconfig": "workspace:*",
+		"@types/node": "22.10.5",
+		"tsx": "4.19.2"
+	}
+}
